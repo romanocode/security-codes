@@ -1,6 +1,6 @@
 # 🔐 Security Codes - Proyecto de práctica con React
 
-Este proyecto es parte de una práctica educativa centrada en **React.js**, donde se exploran los fundamentos del manejo de estado tanto en **componentes de clase** como en **componentes funcionales con hooks** (`useState`, `useReducer`).
+Este proyecto es una practica centrada en **React.js**, donde se exploran los fundamentos del manejo de estado tanto en **componentes de clase** como en **componentes funcionales con hooks** (`useState`, `useReducer`).
 
 ---
 
