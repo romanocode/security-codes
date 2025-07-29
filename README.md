@@ -21,7 +21,7 @@ A través de esta lógica, se aprenden conceptos fundamentales de React como:
 
 ## 🧠 ¿Cómo funciona?
 
-1. **Pantalla inicial**: se solicita el código de seguridad.
+1. **Pantalla inicial**: se solicita el código de seguridad el cual es: paradigma
 2. Si el código es correcto:
    - Se muestra un mensaje de confirmación con dos opciones: continuar con la eliminación o cancelar.
 3. Si el código es incorrecto:
